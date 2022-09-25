@@ -1,3 +1,3 @@
-- Olá, meu nome é Guilherme
+- Olá, sou o Guilherme
 - 👀 Estudando JavaScript
 - 💱 Blockchain
